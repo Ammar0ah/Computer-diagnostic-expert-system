@@ -1,0 +1,10 @@
+SCREEN:
+IF Stuttering or Flickering THEN: Cable is unplugged correctly OR incorrect refresh rate
+IF Black or Single Colored Lines THEN: Screen Replacement 
+KEYBOARD:
+IF NOT WORKING THEN Unplugged
+IF NOT WORKING THEN BIOS Mulfunction
+SOUND:
+IF NOT Working AND NO Driver THEN Check Driver
+IF NOT Working AND Driver THEN CHANGE SPEAKER
+
